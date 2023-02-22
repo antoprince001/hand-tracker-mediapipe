@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: HandDetector.py
+  checksum: f93edfd06bc1eaf72705f657ef7f9106af91cf13db8fe516219c5719a264c82d
+- filename: MediaPipe_Tracking.ipynb
+  checksum: 8858e49018a0943f28800bd7a01dba621436016536790163f58ef92138736488
+version: ""
